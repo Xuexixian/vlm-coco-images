@@ -1,18 +1,4 @@
 # vlm-coco-images
 COCO images for VLM experiment
-![COCO_val2014_000000000143](https://github.com/user-attachments/assets/cd769e4f-def5-4fbf-b06a-5c377906f8bd)
-![COCO_val2014_000000000139](https://github.com/user-attachments/assets/1a9dba09-8a3c-469f-9605-0eef4f6b3f14)
-![COCO_val2014_000000000136](https://github.com/user-attachments/assets/b0961847-e60f-4164-ac93-9ae2f7fbb5b4)
-![COCO_val2014_000000000133](https://github.com/user-attachments/assets/943061d5-3c94-4049-904d-1ead287cc362)
-![COCO_val2014_000000000074](https://github.com/user-attachments/assets/0d9df08b-a5d0-41aa-932e-5b53c67051eb)
-![COCO_val2014_000000000073](https://github.com/user-attachments/assets/805ff25a-2ce0-4bee-8504-2f4047767abf)
-![COCO_val2014_000000000042](https://github.com/user-attachments/assets/ea7e6e1b-d12a-46e4-8a88-ac28bf2cadbd)
-![COCO_val2014_000000000294](https://github.com/user-attachments/assets/94c56bc5-f750-4fa0-a9d8-a642795f2c42)
-![COCO_val2014_000000000285](https://github.com/user-attachments/assets/dbc5b666-0136-4a1c-8159-1b7794225b14)
-![COCO_val2014_000000000283](https://github.com/user-attachments/assets/8ba6b026-ab36-4ce2-9a19-8b2629578a2e)
-![COCO_val2014_000000000257](https://github.com/user-attachments/assets/0f2d7373-1e50-48da-950e-0cfb80865145)
-![COCO_val2014_000000000241](https://github.com/user-attachments/assets/8a4b1ba5-f0a7-46a0-b65e-af11959d4a0f)
-![COCO_val2014_000000000208](https://github.com/user-attachments/assets/ff5dbd63-b24c-42c7-bdcf-b6315f00087c)
-![COCO_val2014_000000000196](https://github.com/user-attachments/assets/17bd8d94-3c66-4548-9730-52587b4c69fd)
-![COCO_val2014_000000000192](https://github.com/user-attachments/assets/7f04f24e-6991-4fb2-895c-fc29cc9fb20b)
-![COCO_val2014_000000000164](https://github.com/user-attachments/assets/99437f26-ed53-4b01-bb1b-bb2dda98aa42)
+![COCO_val2014_000000000042](https://github.com/user-attachments/assets/1517de41-2988-4abd-b52a-5c9a4bdec4ee)
+
